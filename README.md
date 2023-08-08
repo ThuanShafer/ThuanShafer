@@ -1,7 +1,6 @@
 ### 👋 Greetings....I am Thuan Preena!!!
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
-
 <p></br>I am a Senior Software Engineer who works with Frontend & Backend (You can call me FullStack!!!)</p>
 <h3>Things I code with</h3>
 <p>
