@@ -4,7 +4,7 @@
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
 <!-- <li>🔭 I’m currently working on <a href="https://github.com/Spiderpig86/Cirrus">Cirrus</a>.</li> -->
-<li>🌱 Learning about <strong>Serverless Architectures</strong>, <strong>AI</strong>, and a bit of <strong>TechOps</strong>.</li>
+<li>🌱 Currently learning about <strong>Serverless Architectures</strong>, <strong>AI</strong>, and a bit of <strong>TechOps</strong>.</li>
 <!-- <li>👨‍💻 Most of my projects are available on <a href="https://github.com/Spiderpig86">Github</a>.</li> -->
 <!-- <li>📝 I <del>regulary</del> write articles on <a href="https://blog.stanleylim.me">my blog</a>.</li> -->
 <li>💬 Ping me about <strong>Angular, NodeJS, Python, and Cloud Stuff</strong>.</li>
