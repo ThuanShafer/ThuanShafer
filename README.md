@@ -1,8 +1,8 @@
-### Hi there 👋
+### 👋 Greetings....I am Thuan Preena!!!
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
 
-<p>Welcome to my page! </br> I'm Thuan, Frontend & Backend Developer.</p>
+<p>Welcome to my page! </br>Frontend & Backend Developer.</p>
 <h3>Things I code with</h3>
 <p>
   <img alt="angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
