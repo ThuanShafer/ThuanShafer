@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
+
 <p>Welcome to my page! </br> I'm Thuan, Frontend & Backend Developer.</p>
 <h3>Things I code with</h3>
 <p>
